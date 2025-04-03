@@ -132,7 +132,7 @@ export default function Home() {
             <div className="relative aspect-square">
               <SketchBorder className="absolute inset-0" />
               <Image
-                src="/public/images/pro.jpg?height=600&width=600"
+                src="/images/pro.jpg?height=600&width=600"
                 alt="Profile"
                 className="absolute inset-0 h-full w-full object-cover p-3"
                 width={600}
